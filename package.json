@@ -1,0 +1,29 @@
+{
+  "name": "react-native-swipeview",
+  "version": "1.0.0",
+  "description": "SwipeView component for React Native.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-native start",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishabhbhatia/react-native-swipeview.git"
+  },
+  "keywords": [
+    "react-native",
+    "swipeview",
+    "swipe-to-delete",
+    "iOS",
+    "android"
+  ],
+  "author": "rishabhbhatia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishabhbhatia/react-native-swipeview/issues"
+  },
+  "homepage": "https://github.com/rishabhbhatia/react-native-swipeview#readme",
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  }
+}
