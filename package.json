@@ -1,10 +1,10 @@
 {
   "name": "react-native-swipeview",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SwipeView component for React Native.",
   "main": "index.js",
   "scripts": {
-    "start": "react-native start",
+    "start": "react-native start"
   },
   "repository": {
     "type": "git",
