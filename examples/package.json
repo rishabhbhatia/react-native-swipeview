@@ -1,5 +1,5 @@
 {
-  "name": "react-native-swipeview",
+  "name": "BasicSwipeView",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
@@ -21,6 +21,7 @@
   "dependencies": {
     "expo": "^20.0.0",
     "react": "16.0.0-alpha.12",
-    "react-native": "^0.47.0"
+    "react-native": "^0.47.0",
+    "react-native-swipeview": "^1.0.1"
   }
 }
