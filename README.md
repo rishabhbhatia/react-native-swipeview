@@ -4,7 +4,7 @@
 
 # React Native SwipeView
 
-## Todo-list app built with SwipeView [(Watch it on YouTube)](https://youtu.be/Dql1nQ73CY4)
+### Todo-list app built with SwipeView [(Watch it on YouTube)](https://youtu.be/Dql1nQ73CY4)
 
 ![alt text](http://res.cloudinary.com/rishabhbhatia/image/upload/c_scale,w_200/v1504552990/swipeview/todo-app-v1.0.gif)
 
@@ -14,7 +14,7 @@
 - [Installation](#installation)
 - [Basic Usage](#basic-usage)
 - [Properties](#properties)
-- [Sample Project](https://github.com/rishabhbhatia/react-native-todo)
+- [Todo-list Project](https://github.com/rishabhbhatia/react-native-todo)
 
 ### Installation
 ```bash
@@ -55,6 +55,7 @@ const styles = StyleSheet.create({
 });
 
 ```
+![alt text](http://res.cloudinary.com/rishabhbhatia/image/upload/c_scale,w_200/v1504599144/swipeview/swipeview-basic-v1.0.1.gif)
 
 ### Properties
 
