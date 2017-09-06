@@ -46,3 +46,6 @@ examples/swiper.xcodeproj/xcuserdata
 # Vim
 *.sw*
 dist/
+
+# lib folder
+lib
