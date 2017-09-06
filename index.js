@@ -1,3 +1,3 @@
-import SwipeView from './src';
+import SwipeView from './lib';
 
 export default SwipeView;
