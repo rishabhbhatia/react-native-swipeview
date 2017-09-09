@@ -69,8 +69,8 @@ const styles = StyleSheet.create({
 | swipeToOpenPercent | `number` | What % of the left/right openValue does the user need to swipe past to trigger onSwipedLeft/onSwipedRight actions. | 35 |
 | disableSwipeToLeft | `bool` | Disable ability to swipe view to left. | false |
 | disableSwipeToRight | `bool` | Disable ability to swipe view to right. | false |
-| onSwipedLeft | `func` | Called when left swipe is compelted. | - |
-| onSwipedRight | `func` | Called when right swipe is compelted. | - |
+| onSwipedLeft | `func` | Called when left swipe is completed. | - |
+| onSwipedRight | `func` | Called when right swipe is completed. | - |
 | previewSwipeDemo | `bool` | Should the view do a slide out preview to show that it is swipe-able. | false |
 | previewDuration | `number` | Duration of the slide out preview animation. | 300 |
 | previewOpenValue | `number` | TranslateX value for the slide out preview animation. | -60 |
