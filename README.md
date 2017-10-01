@@ -6,7 +6,7 @@
 
 ### Todo-list app built with SwipeView [(Watch it on YouTube)](https://youtu.be/Dql1nQ73CY4)
 
-![alt text](http://res.cloudinary.com/rishabhbhatia/image/upload/c_scale,w_200/v1504552990/swipeview/todo-app-v1.0.gif)
+![alt text](http://res.cloudinary.com/rishabhbhatia/image/upload/c_scale,w_200/v1506861923/swipeview/todo-app-v1.0.gif)
 
 
 ## Getting Started
